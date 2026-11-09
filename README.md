@@ -84,6 +84,6 @@ Dynamic and entrepreneurial **IT Manager, Enterprise Network Architect, and Cybe
 - **Email:** [malavanyo11@gmail.com](mailto:malavanyo11@gmail.com)
 - **Phone:** +233 550 375 545
 - **Location:** Accra, Ghana
-- **LinkedIn:** [linkedin.com/in/michael-tetteh-it](https://linkedin.com/in/michael-tetteh-it)
+- **LinkedIn:** [linkedin.com/in/michael-tetteh-it](https://www.linkedin.com/in/michael-tetteh-602721322/)
 - **GitHub:** [github.com/malavanyo11-source](https://github.com/malavanyo11-source)
 - **Business Portal:** [oyibitechfix.com](https://oyibitechfix.com)
