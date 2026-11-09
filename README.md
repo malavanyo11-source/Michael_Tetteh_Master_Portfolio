@@ -16,7 +16,7 @@ Welcome to the professional portfolio repository of **Michael Tetteh**. This rep
 
 You can view or download the complete, verified portfolio document directly from this repository:
 
-- 📥 **[Download Michael Tetteh - Official Portfolio (PDF)](./MICHAEL_TETTEH_PORTFOLIO.pdf)** *(Replace with your exact uploaded PDF file name)*
+- 📥 **[Download Michael Tetteh - Official Portfolio (PDF)](./MICHAEL_TETTEH_PORTFOLIO.pdf)**
 
 ---
 
