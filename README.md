@@ -16,7 +16,7 @@ Welcome to the professional portfolio repository of **Michael Tetteh**. This rep
 
 You can view or download the complete, verified portfolio document directly from this repository:
 
-- 📥 **[Download Michael Tetteh - Official Portfolio (PDF)](./https://github.com/malavanyo11-source/Michael_Tetteh_Master_Portfolio/upload/main)**
+- 📥 **[Download Michael Tetteh - Official Portfolio (PDF)](./https://github.com/malavanyo11-source/Michael_Tetteh_Master_Portfolio/blob/main/Michael_Tetteh_Master_Portfolio.pdf)**
 
 ---
 
